@@ -4,6 +4,7 @@ public class ZinsDemo {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		
 		/* Wird nur ohne Unterprogramm benötigt
 		int kontostand=1000;
 		double zinsen=2.25;

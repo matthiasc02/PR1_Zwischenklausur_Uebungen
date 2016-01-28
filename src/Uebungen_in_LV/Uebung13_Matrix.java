@@ -21,7 +21,7 @@ public class Uebung13_Matrix {
 	
 	public static void printMatrix(double[][] Matrix)
 	{
-		for(int z=0;z<Matrix.length;z++)
+		for(int z=0;z<Matrix.length;z++) //
 		{
 		for (int i=0;i<Matrix[z].length;i++)//Länge der äußeren Schleife, damit es mit nicht quadratischen Matrixen auch funktioniert
 		{

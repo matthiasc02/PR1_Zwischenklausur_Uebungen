@@ -9,7 +9,7 @@ public class Uebung7_Grenzwertreihe {
 		
 		
 		for(int i=1;;i=i*2){
-			current=1/i;
+			current=previous+ (1.0/i);
 			if((current-previous) < 0.01){
 				System.out.println(current);
 				break;

@@ -7,7 +7,7 @@ public class TurmDemo {
 		int zahl=0;
 		int i=2;
 		
-		zahl=2;
+		zahl=498;
 		
 		while(i<10){
 			System.out.println(zahl+" * "+i+" = "+ (zahl=zahl*i));
